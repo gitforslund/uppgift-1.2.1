@@ -1,6 +1,6 @@
 # uppgift-1.2.1
 
-Skapa README.md-filen med markdown och ge en kort beskrivning av uppgiften/repositoriet (formatera med överskrifter, listor och så vidare).
+Detta är Emanuel Forslunds inlämning av uppgiften 1.2.1 i kursen <u> Webbutveckling II</u>.
 
 ## Om uppgiften
 Denna uppgift bestod av att skapa ett repository i Github och sedan *beskriva* uppgiften i Readme-filen. Uppgiften är alltså att beskriva en beskrivning. Det känns väldigt meta, det hela. Men som jag *tolkar* uppgfiten mer brett består den mer av att visa att man lär sig använda Readme-utrymmet och hur man fyller det med *markdown*.
