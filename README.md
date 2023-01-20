@@ -5,7 +5,7 @@ Detta är Emanuel Forslunds inlämning av uppgiften 1.2.1 i kursen Webbutvecklin
 ## Om uppgiften
 Denna uppgift bestod av att skapa ett repository i Github och sedan *beskriva* uppgiften i Readme-filen. Uppgiften är alltså att beskriva en beskrivning. Det känns väldigt meta, det hela. Men som jag *tolkar* uppgfiten mer brett består den mer av att visa att man lär sig använda Readme-utrymmet och hur man fyller det med *markdown*.
 
-### En liten lista
+### En lista
 Här är en lista på markdown-formatering jag har använt mig av:
 * Rubriker, med hjälp av #-tecken. Ju fler #, desto mindre rubrik.
 * Unordered list, genom att skriva en lista i Readme-filen med astersiker som punkter.
