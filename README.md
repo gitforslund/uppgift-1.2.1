@@ -19,10 +19,10 @@ Här är en lista på markdown-formatering jag har använt mig av:
 Om jag förstår de goda människorna på [educative.io](https://www.educative.io/answers/how-to-clone-a-git-repository-using-the-command-line) rätt är det korrekta kommandot att använda i detta fall git bash.
 
 ## En tabell över vilka markdown-kommandon jag fick till på första försöket
-Kommando | Fick jag till det på första försöket? | Vad var problemet?
-Rubrik | Ja | Det var inga problem!
-Onumrerad lista | Nej | Jag hade inget mellanslag mellan asterisk och text. Punkterna kursiverades istället för att listas.
-Fotnot | Nej | Det var inga problem!
+| Kommando | Fick jag till det på första försöket? | Vad var problemet?
+| Rubrik | Ja | Det var inga problem!
+| Onumrerad lista | Nej | Jag hade inget mellanslag mellan asterisk och text. Punkterna kursiverades istället för att listas.
+| Fotnot | Nej | Det var inga problem!
 
 ![Bild på en våffla](https://studenter.miun.se/~emfo2200/GTWM2/images/frilaggning02.png "En våffla")
 
