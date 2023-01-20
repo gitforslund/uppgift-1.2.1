@@ -1,6 +1,6 @@
 # uppgift-1.2.1
 
-Detta är Emanuel Forslunds inlämning av uppgiften 1.2.1 i kursen <html> <u> Webbutveckling II</u> </html>.
+Detta är Emanuel Forslunds inlämning av uppgiften 1.2.1 i kursen Webbutveckling II.
 
 ## Om uppgiften
 Denna uppgift bestod av att skapa ett repository i Github och sedan *beskriva* uppgiften i Readme-filen. Uppgiften är alltså att beskriva en beskrivning. Det känns väldigt meta, det hela. Men som jag *tolkar* uppgfiten mer brett består den mer av att visa att man lär sig använda Readme-utrymmet och hur man fyller det med *markdown*.
