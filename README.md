@@ -18,8 +18,9 @@ Här är en lista på markdown-formatering jag har använt mig av:
 ## Vilket kommando behöver jag använda i terminalen/kommandoprompten för att klona ditt repository till min dator?
 Om jag förstår de goda människorna på [educative.io](https://www.educative.io/answers/how-to-clone-a-git-repository-using-the-command-line) rätt är det korrekta kommandot att använda i detta fall git bash.
 
+## Appendix
 
-
+### En bild 
 ![Bild på en våffla](https://studenter.miun.se/~emfo2200/GTWM2/images/frilaggning02.png "En våffla")
 
 [^1]: Bilden i fråga är av en våffla formad som delstaten Texas. Den är återanvänd från tidigare kurs.
