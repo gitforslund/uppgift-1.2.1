@@ -7,17 +7,23 @@ Denna uppgift bestod av att skapa ett repository i Github och sedan *beskriva* u
 
 ### En liten lista
 Här är en lista på markdown-formatering jag har använt mig av:
-*Rubriker, med hjälp av #-tecken. Ju fler #, desto mindre rubrik.
-*Unordered list, genom att skriva en lista i Readme-filen med astersiker som punkter.
-*Länkar, genom att använda klamrar för den beskrivande texten och parenteser för själva länken.
-*Images[^1]: Först ett utropstecken, sen alt-text i klamrar, länk till bilden inom parentes och beskrivning av bilden i citattecken.
-*Emfas fick jag till på några ord genom asterisker.
+* Rubriker, med hjälp av #-tecken. Ju fler #, desto mindre rubrik.
+* Unordered list, genom att skriva en lista i Readme-filen med astersiker som punkter.
+* Länkar, genom att använda klamrar för den beskrivande texten och parenteser för själva länken.
+* Images[^1]: Först ett utropstecken, sen alt-text i klamrar, länk till bilden inom parentes och beskrivning av bilden i citattecken.
+* Emfas fick jag till på några ord genom asterisker.
+* Fotnot
+* Tabell
 
 ## Vilket kommando behöver jag använda i terminalen/kommandoprompten för att klona ditt repository till min dator?
 Om jag förstår de goda människorna på [educative.io](https://www.educative.io/answers/how-to-clone-a-git-repository-using-the-command-line) rätt är det korrekta kommandot att använda i detta fall git bash.
 
+## En tabell över vilka markdown-kommandon jag fick till på första försöket
+Kommando | Fick jag till det på första försöket? | Vad var problemet?
+Rubrik | Ja | Det var inga problem!
+Onumrerad lista | Nej | Jag hade inget mellanslag mellan asterisk och text. Punkterna kursiverades istället för att listas.
+Fotnot | Nej | Det var inga problem!
 
-Inline-style: 
 ![Bild på en våffla](https://studenter.miun.se/~emfo2200/GTWM2/images/frilaggning02.png "En våffla")
 
 [^1]: Bilden i fråga är av en våffla formad som delstaten Texas. Den är återanvänd från tidigare kurs.
